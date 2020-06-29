@@ -1,7 +1,5 @@
 import React from "react";
 import Container from "../components/Container";
-// import Project from "../components/Projects";
-// import testimage from "../thetestpath";
 
 function Portfolio() {
   return (
